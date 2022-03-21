@@ -13,7 +13,7 @@
     "list": [
       {
         "pagePath": "pages/checkin/checkin",
-        "text": "打卡",
+        "text": "打",
         "iconPath": "images/checkin.png",
         "selectedIconPath": "images/checkin_fill.png"
       },
